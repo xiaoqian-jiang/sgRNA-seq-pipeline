@@ -1,6 +1,4 @@
 
-markdown
-Copy code
 # Single-cell RNA-seq Analysis Pipeline
 
 ## Overview
