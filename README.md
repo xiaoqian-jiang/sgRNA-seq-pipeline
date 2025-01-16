@@ -65,6 +65,10 @@ Uses **Monocle 2** to infer cell trajectory and visualize the progression of cel
 ### 9. Cell-Cell Communication Analysis (`9.Communication.R`)
 Explores cell-cell communication networks using **CellChat** and **NicheNet** for inference, analysis, and visualization.
 
+### 10. Transcription Factor Analysis (`10.Transcription_Factor.R`)
+SCENIC (Single-Cell Regulatory Network Inference and Clustering) computational framework was used here to reconstruct gene regulatory networks and identify cell states from epithelial cancer cells.
+Note:  Although the script is written in R, the core part of this pipeline runs within PySCENIC, which requires setting up a Conda environment beforehand.
+
 ---
 
 ## Introduction to `all_functions.R`
