@@ -69,6 +69,9 @@ Explores cell-cell communication networks using **CellChat** and **NicheNet** fo
 SCENIC (Single-Cell Regulatory Network Inference and Clustering) computational framework was used here to reconstruct gene regulatory networks and identify cell states from epithelial cancer cells.
 Note:  Although the script is written in R, the core part of this pipeline runs within PySCENIC, which requires setting up a Conda environment beforehand.
 
+### 11. RNA Velocity Analysis (`11.RNA_Velocity.py`)
+This document introduces a basic pipeline for RNA velocity analysis using "scVelo". Since the reference paper did not provide an accessible input loom file and considering the limitations of running computationally intensive tasks on a local machine, I used another loom file or you can use the built-in pancreas dataset provided by the Velocyto package as an example.
+
 ---
 
 ## Introduction to `all_functions.R`
