@@ -2,7 +2,7 @@
 # Single-cell RNA-seq Analysis Pipeline
 
 ## Overview
-This repository provides a comprehensive pipeline for analyzing single-cell RNA sequencing (scRNA-seq) data. The workflow integrates state-of-the-art tools in R and python for robust data preprocessing, clustering, and downstream analyses. The primary aim is to gain hands-on experience while deriving insights from a case study on the evolution of lung adenocarcinoma (LUAD) using data from Zhu et al. (2022).
+This repository provides a comprehensive pipeline for analyzing single-cell RNA sequencing (scRNA-seq) data. The workflow integrates state-of-the-art tools in R and Python for robust data preprocessing, clustering, and downstream analyses. The primary aim is to gain hands-on experience while deriving insights from a case study on the evolution of lung adenocarcinoma (LUAD) using data from Zhu et al. (2022).
 
 ## Project Objective
 The main objective of this repository is to provide a hands-on exploration of scRNA-seq and spatial transcriptomics (ST) workflows. It covers:
