@@ -7,7 +7,7 @@ This repository provides a comprehensive pipeline for analyzing single-cell RNA 
 <img src="images/scrna-pipeline.jpg" width="800px" />
 
 ## Project Objective
-The main objective of this repository is to provide a hands-on exploration of scRNA-seq and spatial transcriptomics (ST) workflows. It covers:
+The main objective of this repository is to provide a hands-on exploration of scRNA-seq workflows. It covers:
 - **Data preprocessing** (Quality control, Multi-sample integration)
 - **Cell clustering and annotation**
 - **Downstream analyses**: Differential expression, pathway enrichment, survival analysis, cell-cell communication, trajectory inference.
